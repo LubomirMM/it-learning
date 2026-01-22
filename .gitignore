@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.pyc 
+
+#Virtual enviroments 
+.venv/
+venv/
+
+# VS Code settings
+.vscode/
